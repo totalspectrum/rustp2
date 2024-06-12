@@ -1,0 +1,6 @@
+[submodule "riscvp2-rt"]
+	path = riscvp2-rt
+	url = https://github.com/totalspectrum/riscvp2-rt
+[submodule "riscvp2-testapp"]
+	path = riscvp2-testapp
+	url = https://github.com/totalspectrum/riscvp2-testapp
