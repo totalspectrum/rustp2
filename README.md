@@ -8,7 +8,7 @@ It works on the same principle as the riscvp2 C compiler for the P2 (https://git
 
 ## Setting up Rust
 
-On your host PC (I used Linux Debian 12, other OSes may vary). Make sure you have rust already installed via rustup. For doing that, see https://www.rust-lang.org/tools/install
+On your host PC (I used Linux Debian 12, other OSes may vary), make sure you have rust already installed via rustup. For doing that, see https://www.rust-lang.org/tools/install
 
 Now add support for riscv32-imac:
 
